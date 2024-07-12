@@ -4,7 +4,7 @@ class Database {
     private $host = "localhost";
     private $db_name = "teatro";
     private $username = "root";
-    private $password = "netmx2013";
+    private $password = ""; // Agregar un password de ser necesario
     private $conn;
 
     // Constructor
